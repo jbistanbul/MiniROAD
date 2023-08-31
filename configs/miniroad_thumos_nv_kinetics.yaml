@@ -1,0 +1,27 @@
+model: 'MiniROAD'
+data_name: 'THUMOS'
+task: 'OAD'
+loss: 'NONUNIFORM'
+metric: 'AP'
+optimizer: 'AdamW'
+device: 'cuda'
+feature_pretrained: 'kinetics'
+root_path: './data/THUMOS'
+rgb_type: 'rgb_kinetics_resnet50'
+flow_type: 'flow_nv_kinetics_bninception'
+annotation_type: 'target_perframe'
+video_list_path: 'data_info/video_list.json'
+output_path: './output'
+window_size: 128 
+batch_size: 64
+test_batch_size: 1 
+num_epoch: 10 
+lr: 0.0002
+weight_decay: 0.05
+num_workers: 4
+dropout: 0.20
+num_classes: 22 # including background
+embedding_dim: 2048
+hidden_dim: 1024
+num_layers: 1
+stride: 4
