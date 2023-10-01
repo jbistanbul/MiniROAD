@@ -1,4 +1,7 @@
 # MiniROAD: Minimal RNN Framework for Online Action Detection
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/miniroad-minimal-rnn-framework-for-online/online-action-detection-on-fineaction)](https://paperswithcode.com/sota/online-action-detection-on-fineaction?p=miniroad-minimal-rnn-framework-for-online)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/miniroad-minimal-rnn-framework-for-online/online-action-detection-on-thumos-14)](https://paperswithcode.com/sota/online-action-detection-on-thumos-14?p=miniroad-minimal-rnn-framework-for-online)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/miniroad-minimal-rnn-framework-for-online/online-action-detection-on-tvseries)](https://paperswithcode.com/sota/online-action-detection-on-tvseries?p=miniroad-minimal-rnn-framework-for-online)
 
 ## Introduction
 
@@ -111,12 +114,14 @@ Download the officially available pre-extracted features from [`FineAction`](htt
 
 If you are using the data/code/model provided here in a publication, please cite our paper:
 
-	@inproceedings{an2023miniroad,
-  		title={MiniROAD: Minimal RNN Framework for Online Action Detection},
-  		author={An, Joungbin and Kang, Hyolim and Han, Su Ho and Yang, Ming-Hsuan and Kim, Seon Joo},
-  		booktitle={International Conference on Computer Vision (ICCV)},
-  		year={2023}
-	}
+```BibTeX
+@inproceedings{miniroad,
+	title={MiniROAD: Minimal RNN Framework for Online Action Detection},
+	author={An, Joungbin and Kang, Hyolim and Han, Su Ho and Yang, Ming-Hsuan and Kim, Seon Joo},
+	booktitle={International Conference on Computer Vision (ICCV)},
+	year={2023}
+}
+```
 
 ## License
 
