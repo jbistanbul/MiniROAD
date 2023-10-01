@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is a pytorch implementation for our ICCV 2023 paper "[`MiniROAD: Minimal RNN Framework for Online Action Detection`]()".
+This is a pytorch implementation for our ICCV 2023 paper "[`MiniROAD: Minimal RNN Framework for Online Action Detection`](https://openaccess.thecvf.com/content/ICCV2023/html/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.html)".
 
 ![teaser](assets/miniroad_teaser.png?raw=true)
 
