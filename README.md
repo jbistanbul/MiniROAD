@@ -95,20 +95,20 @@ Download the officially available pre-extracted features from [`FineAction`](htt
 
 |       method      | feature   |  mAP (%)  |                             config                                                |   checkpoint   |
 |  :--------------: |  :-------------:  |  :-----:  |  :-----------------------------------------------------------------------------:  |  :----------:  |
-|  MiniROAD           |  kinetics |   71.8    | [yaml](configs/miniroad_thumos_kinetics.yaml) | [Download](https://yonsei-my.sharepoint.com/:u:/g/personal/jbistanbul05_o365_yonsei_ac_kr/EQ1XQBlxzgZChRV1faSQKTwBEGIcZILS8mj1QPTzAVva9Q?e=G5YfWP) |
-|  MiniROAD           |    nv_kinetics    |   68.4    | [yaml](configs/miniroad_thumos_nv_kinetics.yaml)      | [Download](https://yonsei-my.sharepoint.com/:u:/g/personal/jbistanbul05_o365_yonsei_ac_kr/EdxCH-yklvJAllMzjMburMEBBz0ULEPMf16hKRlvAA_4kg?e=0jYLzR) |
+|  MiniROAD           |  kinetics |   71.8    | [yaml](configs/miniroad_thumos_kinetics.yaml) | [Download](https://drive.google.com/file/d/1KtT3ZCNthPSqYK1mko5xjnAhr9kFx1GF/view?usp=sharing) |
+|  MiniROAD           |    nv_kinetics    |   68.4    | [yaml](configs/miniroad_thumos_nv_kinetics.yaml)      | [Download](https://drive.google.com/file/d/1KqgJOHWt2G3k2Cw3fEOJPjSMElyuPzGE/view?usp=sharing) |
 
 ### FINEACTION
 
 |       method      | feature   |  mAP (%)  |                             config                                                |   checkpoint   |
 |  :--------------: |  :-------------:  |  :-----:  |  :-----------------------------------------------------------------------------:  |  :----------:  |
-|  MiniROAD           |  kinetics |   37.1    | [yaml](configs/miniroad_fineaction_kinetics.yaml) | [Download](https://yonsei-my.sharepoint.com/:u:/g/personal/jbistanbul05_o365_yonsei_ac_kr/Eeldj4uYggxFlYzYY3J-7j4B6rqr1uA2PbsF18G_97w1ew?e=DKwwd3) |
+|  MiniROAD           |  kinetics |   37.1    | [yaml](configs/miniroad_fineaction_kinetics.yaml) | [Download](https://drive.google.com/file/d/1Ky_N3Q_lOUVnPs5r4v_f3c-F7LqxxHZs/view?usp=sharing) |
 
 ### TVSERIES
 
 |       method      | feature   |  mcAP (%)  |                             config                                                |   checkpoint   |
 |  :--------------: |  :-------------:  |  :-----:  |  :-----------------------------------------------------------------------------:  |  :----------:  |
-|  MiniROAD           |  kinetics |   89.6    | [yaml](configs/miniroad_tvseries_kinetics.yaml) | [Download](https://yonsei-my.sharepoint.com/:u:/g/personal/jbistanbul05_o365_yonsei_ac_kr/ES4wVDcYIZNNmyzupS2UUoABeo6i7oFvUnP7HpdQ7y1b8g?e=PvISCv) |
+|  MiniROAD           |  kinetics |   89.6    | [yaml](configs/miniroad_tvseries_kinetics.yaml) | [Download](https://drive.google.com/file/d/1KlihzZDpVslQZJpMAHcxElOi2XEsLB7p/view?usp=sharing) |
 
 ## Citations
 
